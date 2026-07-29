@@ -1,0 +1,3 @@
+see LICENSE.txt for license information
+code from https://github.com/memononen/libtess2
+released by Mikko Mononen (memon@inside.org)
