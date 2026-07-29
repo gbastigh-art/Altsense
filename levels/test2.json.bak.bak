@@ -1,0 +1,315 @@
+{
+  "timestamp": 1714832832398013000,
+  "DECAL": [],
+  "SIDE": [
+    {
+      "tag": 0,
+      "flags": 0,
+      "sector": 0,
+      "portal": -1,
+      "friend": {
+        "type": 0,
+        "index": 0
+      },
+      "mat": {
+        "tex_high": 0,
+        "hsva": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "tex_mid": 0,
+        "split_bottom": 0,
+        "offsets": [
+          0,
+          0
+        ],
+        "split_top": 0,
+        "tex_low": 0,
+        "tex_overlay": 0,
+        "overlay_alpha": 0,
+        "flags": 0
+      },
+      "func_type": 0,
+      "light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      }
+    },
+    {
+      "tag": 0,
+      "flags": 0,
+      "sector": 0,
+      "portal": -1,
+      "friend": {
+        "type": 0,
+        "index": 0
+      },
+      "mat": {
+        "tex_high": 0,
+        "hsva": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "tex_mid": 0,
+        "split_bottom": 0,
+        "offsets": [
+          0,
+          0
+        ],
+        "split_top": 0,
+        "tex_low": 0,
+        "tex_overlay": 0,
+        "overlay_alpha": 0,
+        "flags": 0
+      },
+      "func_type": 0,
+      "light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      }
+    },
+    {
+      "tag": 0,
+      "flags": 0,
+      "sector": 0,
+      "portal": -1,
+      "friend": {
+        "type": 0,
+        "index": 0
+      },
+      "mat": {
+        "tex_high": 0,
+        "hsva": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "tex_mid": 0,
+        "split_bottom": 0,
+        "offsets": [
+          0,
+          0
+        ],
+        "split_top": 0,
+        "tex_low": 0,
+        "tex_overlay": 0,
+        "overlay_alpha": 0,
+        "flags": 0
+      },
+      "func_type": 0,
+      "light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      }
+    },
+    {
+      "tag": 0,
+      "flags": 0,
+      "sector": 0,
+      "portal": -1,
+      "friend": {
+        "type": 0,
+        "index": 0
+      },
+      "mat": {
+        "tex_high": 0,
+        "hsva": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "tex_mid": 0,
+        "split_bottom": 0,
+        "offsets": [
+          0,
+          0
+        ],
+        "split_top": 0,
+        "tex_low": 0,
+        "tex_overlay": 0,
+        "overlay_alpha": 0,
+        "flags": 0
+      },
+      "func_type": 0,
+      "light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      }
+    }
+  ],
+  "SECTOR": [
+    {
+      "friend": {
+        "type": 0,
+        "index": 0
+      },
+      "ceil.slope_side": -1,
+      "ceil.light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      },
+      "ceil.z": 1.5,
+      "drag": 0,
+      "tag": 0,
+      "floor.slope": 0,
+      "floor.slope_side": -1,
+      "floor.light": {
+        "ambient": 0,
+        "flags": 0,
+        "color": [
+          0,
+          0,
+          0
+        ],
+        "power": 0,
+        "attenuation": 0,
+        "z_attenuation": 0,
+        "c1": 0,
+        "c2": 0
+      },
+      "mat": {
+        "hsva[1]": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hsva[0]": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "overlay_alphas[1]": 0,
+        "offsets[0]": [
+          0,
+          0
+        ],
+        "overlays[0]": 0,
+        "texs[0]": 0,
+        "overlays[1]": 0,
+        "overlay_alphas[0]": 0,
+        "texs[1]": 0,
+        "flags": 0,
+        "offsets[1]": [
+          0,
+          0
+        ]
+      },
+      "flags": 0,
+      "floor.z": 0,
+      "ceil.slope": 0
+    }
+  ],
+  "VERTEX": [
+    {
+      "pos": [
+        9.5,
+        2
+      ]
+    },
+    {
+      "pos": [
+        14,
+        6.75
+      ]
+    },
+    {
+      "pos": [
+        6.75,
+        6.75
+      ]
+    },
+    {
+      "pos": [
+        6.5,
+        2.25
+      ]
+    }
+  ],
+  "OBJECT": [],
+  "ROOM": [],
+  "version": 1,
+  "WALL": [
+    {
+      "vertices[0]": 0,
+      "sides[1]": -1,
+      "sides[0]": 0,
+      "vertices[1]": 1
+    },
+    {
+      "vertices[0]": 1,
+      "sides[1]": -1,
+      "sides[0]": 1,
+      "vertices[1]": 2
+    },
+    {
+      "vertices[0]": 2,
+      "sides[1]": -1,
+      "sides[0]": 2,
+      "vertices[1]": 3
+    },
+    {
+      "vertices[0]": 3,
+      "sides[1]": -1,
+      "sides[0]": 3,
+      "vertices[1]": 0
+    }
+  ]
+}
